@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/horizon-vision/static/css/main.073c9b0a.css",
+    "main.js": "/horizon-vision/static/js/main.030eeb18.js",
+    "static/js/787.1007b6cf.chunk.js": "/horizon-vision/static/js/787.1007b6cf.chunk.js",
+    "static/media/logo.svg": "/horizon-vision/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/horizon-vision/index.html",
+    "main.073c9b0a.css.map": "/horizon-vision/static/css/main.073c9b0a.css.map",
+    "main.030eeb18.js.map": "/horizon-vision/static/js/main.030eeb18.js.map",
+    "787.1007b6cf.chunk.js.map": "/horizon-vision/static/js/787.1007b6cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.030eeb18.js"
+  ]
+}
